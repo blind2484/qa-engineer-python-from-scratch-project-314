@@ -1,9 +1,5 @@
 import os
 
-from dotenv import load_dotenv
-
-load_dotenv()
-
 import pytest
 from actions.actions import Actions
 from selenium import webdriver
