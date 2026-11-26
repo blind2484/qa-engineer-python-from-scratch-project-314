@@ -11,7 +11,6 @@
 
 - Python
 - pytest
-- python-dotenv
 - Selenium
 
 ## Установка
