@@ -1,6 +1,7 @@
 # Тестирование канбан-доски с Selenium (Python)
 
 [![hexlet-check](https://github.com/blind2484/qa-engineer-python-from-scratch-project-314/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/blind2484/qa-engineer-python-from-scratch-project-314/actions)
+[![test on push](https://github.com/blind2484/qa-engineer-python-from-scratch-project-314/actions/workflows/on_push.yml/badge.svg)](https://github.com/blind2484/qa-engineer-python-from-scratch-project-314/actions/workflows/on_push.yml)
 
 Напишите тесты для проверки работы приложения
 
