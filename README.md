@@ -10,6 +10,9 @@
 ## Стек
 
 - Python
+- pytest
+- python-dotenv
+- Selenium
 
 ## Установка
 
@@ -18,12 +21,14 @@
 ```bash
 git clone https://github.com/blind2484/qa-engineer-python-from-scratch-project-314.git
 cd qa-engineer-python-from-scratch-project-314
+make start
+make test
 ```
 
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
+![Пример прогона тестов](assets/tests.jpg)
 ---
 
 <details>

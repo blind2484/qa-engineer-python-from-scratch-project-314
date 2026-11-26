@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+qa_engineer_python_from_scratch_project_314.egg-info/PKG-INFO
+qa_engineer_python_from_scratch_project_314.egg-info/SOURCES.txt
+qa_engineer_python_from_scratch_project_314.egg-info/dependency_links.txt
+qa_engineer_python_from_scratch_project_314.egg-info/top_level.txt
+tests/test_start_page.py

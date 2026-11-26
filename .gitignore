@@ -1,0 +1,8 @@
+.venv
+.env
+__pycache__/
+dist/
+*.pyc
+*.Identifier
+*_cache/
+*.cast
